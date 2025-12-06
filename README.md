@@ -1,38 +1,33 @@
+🎓 Feira de Profissões — Plataforma Interativa
 
+A Feira de Profissões é uma plataforma desenvolvida para apresentar diferentes carreiras de maneira prática, moderna e envolvente. O projeto é voltado especialmente para estudantes do ensino médio e eventos educacionais que buscam uma experiência digital intuitiva e informativa.
 
-## 🧠 Sobre o Projeto – Feira de Profissões
+🚀 Tecnologias Utilizadas
 
-**Feira de Profissões** é um projeto desenvolvido com o objetivo de apresentar diferentes profissões de forma interativa, voltado principalmente para estudantes do ensino médio e eventos educacionais. O foco é proporcionar uma experiência de navegação intuitiva e educativa utilizando tecnologias web modernas.
+React
 
-### 💡 Funcionalidades:
-- Interface moderna e responsiva
-- Conteúdo sobre várias profissões
-- Navegação dinâmica com Vite + JavaScript
-- Estilização com SCSS
+JavaScript + Vite
 
----
+Node.js
 
-## 🧑‍💻 Sobre mim
+SCSS
 
-Sou um entusiasta da tecnologia em transição de carreira, apaixonado por resolver problemas com código. Atualmente estou focado em aprender desenvolvimento web com **JavaScript**, **Node.js** e **React**.
+💡 Funcionalidades
 
-- 🔎 Buscando minha primeira oportunidade na área de tecnologia  
-- 📚 Estudando algoritmos, estrutura de dados e boas práticas de programação  
-- 💡 Curioso, criativo e sempre pronto para aprender algo novo  
+Interface moderna, responsiva e de fácil navegação.
 
----
+Conteúdo organizado sobre diversas profissões.
 
-## 🛠️ Tecnologias e Ferramentas que estou aprendendo
+Construção dinâmica com Vite para maior performance.
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-</div>
+Estilização modular com SCSS.
 
----
+Área administrativa exclusiva para gestão do evento.
 
-Ainda em desenvolvimento...
+Sistema de inscrição com QR Code único para cada participante.
+
+Painel para o admin visualizar e gerenciar os inscritos.
+
+🎯 Objetivo
+
+Oferecer uma experiência educacional interativa, auxiliando jovens na exploração de diferentes caminhos profissionais.
