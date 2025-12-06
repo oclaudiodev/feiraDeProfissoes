@@ -1,33 +1,57 @@
-🎓 Feira de Profissões — Plataforma Interativa
+# 🎓 Feira de Profissões — Plataforma Interativa
 
-A Feira de Profissões é uma plataforma desenvolvida para apresentar diferentes carreiras de maneira prática, moderna e envolvente. O projeto é voltado especialmente para estudantes do ensino médio e eventos educacionais que buscam uma experiência digital intuitiva e informativa.
+A **Feira de Profissões** é uma plataforma desenvolvida para apresentar diferentes carreiras de forma prática, moderna e envolvente.  
+Criada especialmente para **estudantes do ensino médio**, escolas e eventos educacionais, ela oferece uma experiência digital intuitiva, responsiva e informativa.
 
-🚀 Tecnologias Utilizadas
+---
 
-React
+## 🚀 Tecnologias Utilizadas
 
-JavaScript + Vite
+<p align="left">
 
-Node.js
+  <!-- React -->
+  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
-SCSS
+  <!-- Vite -->
+  <img src="https://img.shields.io/badge/Vite-000?style=for-the-badge&logo=vite&logoColor=8A2BE2" />
 
-💡 Funcionalidades
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
-Interface moderna, responsiva e de fácil navegação.
+  <!-- Node.js -->
+  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=3C873A" />
 
-Conteúdo organizado sobre diversas profissões.
+  <!-- Express -->
+  <img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=fff" />
 
-Construção dinâmica com Vite para maior performance.
+  <!-- SCSS -->
+  <img src="https://img.shields.io/badge/SCSS-000?style=for-the-badge&logo=sass&logoColor=CD6799" />
 
-Estilização modular com SCSS.
+  <!-- Git -->
+  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F05032" />
 
-Área administrativa exclusiva para gestão do evento.
+  <!-- GitHub -->
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff" />
 
-Sistema de inscrição com QR Code único para cada participante.
+</p>
 
-Painel para o admin visualizar e gerenciar os inscritos.
+---
 
-🎯 Objetivo
+## 💡 Funcionalidades
 
-Oferecer uma experiência educacional interativa, auxiliando jovens na exploração de diferentes caminhos profissionais.
+✔️ Interface moderna, responsiva e intuitiva  
+✔️ Conteúdo organizado sobre diversas profissões  
+✔️ Build rápido e otimizado com **Vite**  
+✔️ Estilização modular usando **SCSS**  
+✔️ Área administrativa completa para gerenciamento do evento  
+✔️ Sistema de inscrição com **QR Code único por participante**  
+✔️ Painel do administrador para visualizar e gerenciar inscritos  
+✔️ Backend estruturado com **Node.js + Express**  
+✔️ Controle de versão com **Git e GitHub**  
+
+---
+
+## 🎯 Objetivo
+
+Oferecer uma experiência educacional interativa que ajude jovens a explorar diferentes **caminhos profissionais**, conectando tecnologia e orientação vocacional de forma acessível e envolvente.
+
